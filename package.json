@@ -1,0 +1,20 @@
+{
+  "name": "youtube-clone",
+  "version": "1.0.0",
+  "description": "This is a full professional backed project with good complexity that is required in a complete good full stack project",
+  "keywords": [
+    "javascript",
+    "node",
+    "express",
+    "mongoose",
+    "mongoDB",
+    "authentication"
+  ],
+  "license": "ISC",
+  "author": "Aadil Ahmed",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" &&  1"
+  }
+}
